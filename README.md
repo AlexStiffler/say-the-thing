@@ -1,4 +1,4 @@
-# Say the Thing
+# Skip Hello
 
 A friendly, interactive guide to better async chat. The page encourages people to include their question in the first message, so conversations can move forward without unnecessary waiting.
 
@@ -16,3 +16,4 @@ Open `index.html` in a modern browser. The page loads Tailwind CSS from its CDN,
 ## Built with
 
 HTML, Tailwind CSS via CDN, and vanilla JavaScript. No build step or custom CSS is required.
+
